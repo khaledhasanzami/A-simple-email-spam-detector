@@ -1,6 +1,6 @@
 # A simple email spam detector
 
-**Dataset:** We used a clean dataset of *kernlab package* named *spam* which is available [here](https://cran.r-project.org/web/packages/kernlab/index.html) 
+**Dataset:** I used a clean dataset of *kernlab package* named *spam* which is available [here](https://cran.r-project.org/web/packages/kernlab/index.html) 
 
 **Files:**
 There are 4 types of files in the repository:
