@@ -22,7 +22,7 @@ Summary of the analysis is given below:
    - Our test set error rate was 22.4%
 - Interpret results
    - Number of dollar signs seems reasonable, e.g. "Make money with Viagra \$ \$ \$ \$!"
-- callenge results
+- Challenge results
    - 78% isn't that great
    - I could use more variables
   
